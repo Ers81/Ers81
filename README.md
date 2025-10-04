@@ -43,7 +43,4 @@
 [Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 [Website](https://img.shields.io/badge/website-up-blue)
 -->
-<p>
-  <span style="margin-right: 15px;"> Подарок от меня:</span>
-  <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8E%81-%D1%85%D0%B0%D0%BB%D1%8F%D0%B2%D0%B0-%23008000?labelColor=%23006400&link=https%3A%2F%2Fwww.youtube.com%2Fshorts%2F3DSkcmAEjH4">
-</p>
+
